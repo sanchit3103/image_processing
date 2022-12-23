@@ -10,7 +10,6 @@ Canny Edge Detection is implemented on the following grayscale image.
 
 #### a) Image after smoothing with Gaussian Filter
 <p align="center">
-  <div id="image-container" oncontextmenu="return false;"></div>
   <img src = "https://user-images.githubusercontent.com/4907348/209258326-966d2455-ad76-4041-8aa3-35b6b09405b8.png" width="400"/>
 </p>
 
