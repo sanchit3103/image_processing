@@ -130,7 +130,6 @@ def thresholding(_nms_img):
 
 # Read the image
 input_img               = cv2.imread('lane.png')
-img = cv2.imread('Images_Q3/Image_NMS_Step.png')
 
 # Convert the image to Grayscale
 img_Grayscale           = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
