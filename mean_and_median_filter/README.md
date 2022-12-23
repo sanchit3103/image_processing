@@ -1,7 +1,7 @@
 # Image enhancement using Mean and Median Filter
 
 <p align="justify">
-The noise grayscale image shown below is enhanced through application of mean and median filters.
+The noisy grayscale image shown below is enhanced through application of mean and median filters.
 </p>
 
 <p align="center">
